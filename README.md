@@ -14,3 +14,7 @@ Requirements
 Design Files
 
 - https://www.figma.com/design/gCHIbegJxgBVdcvopMNIhi/Movie-Watchlist-(Copy)?node-id=0-1&t=ucTyJp9fHdHRpQgP-0
+
+API Link
+
+- https://www.omdbapi.com/
